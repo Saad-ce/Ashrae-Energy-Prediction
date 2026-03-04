@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Ashrae-Energy-Prediction
+
 Comprehensive energy consumption forecasting project based on the ASHRAE Energy Prediction dataset. Implemented supervised learning models including KNN and Decision Trees, along with deep learning architectures (LSTM & GRU) to capture temporal patterns in building energy usage. The project covers data preprocessing, feature engineering, time-series sequence generation, and model evaluation using RMSLE to compare traditional machine learning and neural network approaches.
-=======
-# ML_project
-ML team project
->>>>>>> 362c04c (initial commit)
+
+
